@@ -6,8 +6,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.Loader;
+import android.content.res.TypedArray;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.RecyclerView;
@@ -43,18 +45,12 @@ public class ArticleListActivity extends ActionBarActivity implements
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
-
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
-
-
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
-
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         getLoaderManager().initLoader(0, null, this);
+        if (savedInstanceState == null) refresh();
 
-        if (savedInstanceState == null) {
-            refresh();
-        }
     }
 
     private void refresh() {
@@ -104,6 +100,15 @@ public class ArticleListActivity extends ActionBarActivity implements
         int columnCount = getResources().getInteger(R.integer.list_column_count);
         StaggeredGridLayoutManager sglm =
                 new StaggeredGridLayoutManager(columnCount, StaggeredGridLayoutManager.VERTICAL);
+        sglm.setGapStrategy(StaggeredGridLayoutManager.GAP_HANDLING_MOVE_ITEMS_BETWEEN_SPANS);
+        mRecyclerView.setHasFixedSize(true);
+
+       /* mRecyclerView.addItemDecoration(new DividerItemDecoration(getApplicationContext(),
+                ContextCompat.getDrawable(getApplicationContext(), R.drawable.padded_divider),
+                DividerItemDecoration.VERTICAL_LIST)); */
+
+        //mRecyclerView.addItemDecoration(new DividerItemDecoration(getApplicationContext()));
+
         mRecyclerView.setLayoutManager(sglm);
     }
 

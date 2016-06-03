@@ -20,16 +20,12 @@
         "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/fab_background.xml",
-        "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/drawable/fab_background.xml"
+        "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/padded_divider.xml",
         "source": "/home/crised/IdeaProjects/xyz/XYZReader/src/main/res/drawable/padded_divider.xml"
-    },
-    {
-        "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/res/drawable/design_fab_background.xml"
     },
     {
         "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
@@ -38,10 +34,6 @@
     {
         "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/snackbar_background.xml",
-        "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/drawable/snackbar_background.xml"
     },
     {
         "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
@@ -120,12 +112,12 @@
         "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",

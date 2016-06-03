@@ -1,2 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/crised/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_ac01f288240e85c17c5283d3f35b31ad5319f5bc/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_bd9c712bb0936387fe60efbef7c46bbef18d3642/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_e3d54f4ab398905e195059e7bb00b45215882e8f/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_13eb10aa746537ad9e4d6d70e19f6d842f483d9e/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_97fa28895354b5777ce7e671ec9143acd20a7d0a/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_50d48f896cdbdfe0c94c8091f09141f969782325/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9bb21620b1d1b97acb39b4b91fb5afa0d35947e9/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_3868e26ea93fabeee5a4201f2b4ea4bf0985c835/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_c9b842a9e0a5aac1b01f90ef334e49a243c4b80a/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ecb12e9127c866ca41eee772583d69dcacd8074f/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ce3d2ff36c16d027f399eafcd73c9ac8cdacbaf8/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_36bca8e635e7414d2f071f0dd094bea0d39a0b0f/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_613d6a41d917bb5205d9fe29fcf1448e6c3b6adb/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_0c259e33440785028335cebeff2eaf37e7d8c34c/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="24f1648c3f14a8eac2ef018385ce157e8ed79c66">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e857073c6222056baeaa986187e10e4dbe1c6e33/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c6b9d29c2fa7ffca1116a6b3560b21ea24f21417">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a7d7debc8fd22e4970ec9fb7be2ad7e771c00c35/classes.dex" />
+    </item>
+    <item
+        jar="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.4.0_2ae7ada5a11fc6f8d56784d4e0902baa3a315430/classes.dex" />
+    </item>
+
+</items>
