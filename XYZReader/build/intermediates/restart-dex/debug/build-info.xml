@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="22"
-    density="xhdpi"
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
     format="7"
-    timestamp="14835380216223" >
+    timestamp="16514846566442" >
 
     <task
         name="javac"
@@ -19,16 +19,24 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="14771156396079" >
+    <artifact
+        location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="15713753408360" >
         <artifact
             location="/home/crised/IdeaProjects/xyz/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="14830065491116" >
+    <build timestamp="15919461120158" >
+        <artifact
+            location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="16514846566442" >
         <artifact
             location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
     </build>
-    <build timestamp="14835380216223" />
 
 </instant-run>
