@@ -4,7 +4,7 @@
     api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="21010053397551" >
+    timestamp="10731239575896" >
 
     <task
         name="javac"
@@ -19,26 +19,34 @@
         name="verifier"
         duration="0" />
 
-    <build timestamp="17515673106052" >
+    <build timestamp="1102297161245" >
         <artifact
             location="/home/crised/IdeaProjects/xyz/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="19130336893102" >
+    <build
+        timestamp="10368502972968"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
         <artifact
             location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
             type="DEX" />
+        <artifact
+            location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
     </build>
-    <build timestamp="19966372762409" >
+    <build timestamp="10612845042083" >
         <artifact
             location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
     </build>
-    <build timestamp="20894460346550" >
+    <build timestamp="10731239575896" />
+    <build timestamp="23576894309874" >
         <artifact
             location="/home/crised/IdeaProjects/xyz/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
     </build>
-    <build timestamp="21010053397551" />
 
 </instant-run>
