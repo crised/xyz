@@ -19,6 +19,7 @@ import android.util.TypedValue;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TableLayout;
 import android.widget.TextView;
 
 import com.example.xyzreader.R;
@@ -151,6 +152,8 @@ public class ArticleListActivity extends ActionBarActivity implements
                             + " by "
                             + mCursor.getString(ArticleLoader.Query.AUTHOR));
             Log.d("M",holder.subtitleView.getText().toString());
+            holder.subtitleView.setLayoutParams(new TableLayout.LayoutParams(TableLayout.LayoutParams.WRAP_CONTENT, TableLayout.LayoutParams.WRAP_CONTENT));
+
             holder.thumbnailView.setImageUrl(
                     mCursor.getString(ArticleLoader.Query.THUMB_URL),
                     ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
